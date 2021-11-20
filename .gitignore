@@ -1,0 +1,4 @@
+# Folders:
+/env_learn-python
+.ipynb*
+__pycache__/
