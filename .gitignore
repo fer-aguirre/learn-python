@@ -1,5 +1,11 @@
-# Folders:
-/env_learn-python
+# Environment:
+env*
+
+# Notebook checkpoints
 .ipynb*
+
+# Byte-compiled
 __pycache__/
+
+# Gitignore
 .gitignore.save
