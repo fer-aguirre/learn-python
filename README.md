@@ -26,4 +26,4 @@ Collection of Python scripts organized by topics with code examples.
   - [Testing Methods](https://github.com/fer-aguirre/learn-python/blob/master/static_typing/test.py)
 - [Functions Concepts](https://github.com/fer-aguirre/learn-python/tree/master/functions_concepts)
   - [Scopes](https://github.com/fer-aguirre/learn-python/blob/master/functions_concepts/scopes.ipynb)
-  - [Clousures](https://github.com/fer-aguirre/learn-python/blob/master/functions_concepts/closures.ipynb)
+  - [Closures](https://github.com/fer-aguirre/learn-python/blob/master/functions_concepts/closures.ipynb)
