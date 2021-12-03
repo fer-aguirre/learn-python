@@ -9,3 +9,6 @@ __pycache__/
 
 # Gitignore
 .gitignore.save
+
+# Modules
+.mypy*
