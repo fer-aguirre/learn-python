@@ -1,6 +1,6 @@
 # Python module to know if a string is palindrome
 
-# fuction receive a string and return a bool
+# Fuction receive a string and return a bool
 def is_palindrome(string: str) -> bool:  
     # Delete whitespaces and convert to lowers
     string = string.replace(' ', '').lower()

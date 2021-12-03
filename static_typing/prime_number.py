@@ -1,6 +1,6 @@
 # Python module to know if a number is prime
 
-# fuction receive an int and return a bool
+# Fuction receive an int and return a bool
 def is_prime(number: int) -> bool:
     result = [x for x in range(2, number) if number % x == 0]
     return len(result) == 0 and number > 1
