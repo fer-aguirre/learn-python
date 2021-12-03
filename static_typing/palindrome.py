@@ -1,4 +1,4 @@
-# Python module to know if a string is palindrome
+""" Python module to know if a string is palindrome """
 
 # Fuction receive a string and return a bool
 def is_palindrome(string: str) -> bool:  
@@ -10,10 +10,13 @@ def is_palindrome(string: str) -> bool:
 def run():
     print(is_palindrome(1000))
 
-# Install mypy module:
-# $pip3 install mypy
-# Run in terminal:
-# $mypy palindrome.py --check-untyped-defs
+"""
+Install mypy module:
+$ pip3 install mypy
+Run in terminal:
+$ mypy palindrome.py --check-untyped-defs
+"""
+
 
 if __name__ == '__main__':
     run()

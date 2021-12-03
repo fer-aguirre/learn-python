@@ -1,4 +1,4 @@
-# Python module to know if a number is prime
+""" Python module to know if a number is prime """
 
 # Fuction receive an int and return a bool
 def is_prime(number: int) -> bool:
@@ -10,10 +10,13 @@ def run():
     #number = "4"
     print(is_prime(number))
 
+"""
+Install mypy module:
+$ pip3 install mypy
+Run in terminal:
+$ mypy prime_number.py --check-untyped-defs
+"""
+
+
 if __name__ == '__main__':
     run()
-
-# Install mypy module:
-# $pip3 install mypy
-# Run in terminal:
-# $mypy palindrome.py --check-untyped-defs
