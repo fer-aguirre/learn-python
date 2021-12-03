@@ -24,3 +24,6 @@ Collection of Python scripts organized by topics with code examples.
   - [Palindrome Function](https://github.com/fer-aguirre/learn-python/blob/master/static_typing/palindrome.py)
   - [Prime Number Function](https://github.com/fer-aguirre/learn-python/blob/master/static_typing/prime_number.py)
   - [Testing Methods](https://github.com/fer-aguirre/learn-python/blob/master/static_typing/test.py)
+- [Functions Concepts](https://github.com/fer-aguirre/learn-python/tree/master/functions_concepts)
+  - [Scopes](https://github.com/fer-aguirre/learn-python/blob/master/functions_concepts/scopes.ipynb)
+  - [Clousures](https://github.com/fer-aguirre/learn-python/blob/master/functions_concepts/closures.ipynb)
