@@ -26,6 +26,7 @@ Collection of Python scripts organized by topics with code examples.
 #### Object-Oriented Programming
 - [Classes](https://github.com/fer-aguirre/learn-python/blob/master/object-oriented_programming/classes.ipynb)
 - [Decomposition](https://github.com/fer-aguirre/learn-python/blob/master/object-oriented_programming/decomposition.ipynb)
+- [Abstraction](https://github.com/fer-aguirre/learn-python/blob/master/object-oriented_programming/abstraction.ipynb)
 
 #### Advanced Functions Concepts
   - [Scopes](https://github.com/fer-aguirre/learn-python/blob/master/functions_concepts/scopes.ipynb)
