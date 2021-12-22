@@ -36,6 +36,8 @@ Collection of Python scripts organized by topics with code examples.
     - [Time Execution](https://github.com/fer-aguirre/learn-python/blob/master/functions_concepts/time_execution.py)
     - [Custom Message](https://github.com/fer-aguirre/learn-python/blob/master/functions_concepts/custom_message.py)
     - [Date Message](https://github.com/fer-aguirre/learn-python/blob/master/functions_concepts/date_message.py)
+
+#### Advanced Data Structures
   - [Iterators](https://github.com/fer-aguirre/learn-python/blob/master/iterators/iterators.ipynb)
     - [Fibonacci](https://github.com/fer-aguirre/learn-python/blob/master/iterators/fibonacci.py)
   - [Generators](https://github.com/fer-aguirre/learn-python/blob/master/generators/generators.ipynb)
