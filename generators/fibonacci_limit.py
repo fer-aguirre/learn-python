@@ -7,13 +7,11 @@ definido por el usuario
 
 import time
 
-def fibo_gen():
+def fibo_gen(max):
     n1 = 0
     n2 = 1
     counter = 0
-    max = int(input('Ingresa el máximo de valores para la sucesión de Fibonacci: '))
-    assert max > 1, "El valor debe ser mayor que 1"
-    while max > 1:
+    while True:
         if counter == 0:
             counter += 1
             yield n1
@@ -33,7 +31,9 @@ def fibo_gen():
 
 
 if __name__ == '__main__':
-    fibonacci = fibo_gen()
+    max = input('Ingresa el máximo de valores para la sucesión de Fibonacci: ')
+    assert max.isnumeric() and int(max) >= 1, "El valor debe ser un número positivo"
+    fibonacci = fibo_gen(int(max))
     for element in fibonacci:
         print(element)
         time.sleep(0.5)
