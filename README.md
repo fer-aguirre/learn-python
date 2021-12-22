@@ -3,18 +3,19 @@ Collection of Python scripts organized by topics with code examples.
 
 ## Contents
 
-#### Comprehension
+#### Comprehension, Lambdas and High-order Functions
 - [List Comprehension](https://github.com/fer-aguirre/learn-python/blob/master/comprehensions/list_comprehensions.ipynb)
 - [Dictionary Comprehension](https://github.com/fer-aguirre/learn-python/blob/master/comprehensions/dict_comprehensions.ipynb)
-
-#### Lambdas and High-order Functions
-- [Anonymous function](https://github.com/fer-aguirre/learn-python/blob/master/functions/anonymous_functions.ipynb)
+- [Anonymous Function](https://github.com/fer-aguirre/learn-python/blob/master/functions/anonymous_functions.ipynb)
 - [High-Order Functions](https://github.com/fer-aguirre/learn-python/blob/master/functions/high_order_functions.ipynb)
-  - [Data Filter Function](https://github.com/fer-aguirre/learn-python/blob/master/functions/data_filter.ipynb)
+- Challenge:  [Data Filter Function](https://github.com/fer-aguirre/learn-python/blob/master/functions/data_filter.ipynb)
 
-#### Handle Errors
+#### Error Handling
 - [Exceptions](https://github.com/fer-aguirre/learn-python/blob/master/handle_errors/exceptions.ipynb)
+  - [Debugging with Exceptions](https://github.com/fer-aguirre/learn-python/blob/master/handle_errors/debugging_exceptions.py)
 - [Assert Statements](https://github.com/fer-aguirre/learn-python/blob/master/handle_errors/assert_statements.ipynb)
+  - [Debugging with Assert Statements](https://github.com/fer-aguirre/learn-python/blob/master/handle_errors/debugging_assert.py)
+- Challenge:  [Hangman Game](https://github.com/fer-aguirre/learn-python/blob/master/handle_errors/hangman_game.py)
 
 #### Static Typing
   - [Static Typing with Primitive Data Types](https://github.com/fer-aguirre/learn-python/blob/master/static_typing/st_data_types.ipynb)
