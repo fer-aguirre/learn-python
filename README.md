@@ -43,3 +43,6 @@ Collection of Python scripts organized by topics with code examples.
   - [Generators](https://github.com/fer-aguirre/learn-python/blob/master/generators/generators.ipynb)
     - [Fibonacci](https://github.com/fer-aguirre/learn-python/blob/master/generators/fibonacci.py)
     - [Fibonacci Limit](https://github.com/fer-aguirre/learn-python/blob/master/generators/fibonacci_limit.py)
+  - [Sets](https://github.com/fer-aguirre/learn-python/blob/master/sets/sets.ipynb)
+    - [Sets Operations](https://github.com/fer-aguirre/learn-python/blob/master/sets/sets_operations.ipynb)
+    - [Remove Duplicates](https://github.com/fer-aguirre/learn-python/blob/master/sets/remove_duplicates.py)
