@@ -2,7 +2,6 @@
 Collection of Python scripts organized by topics with code examples.
 
 ## Contents
-
 #### Comprehension, Lambdas and High-order Functions
 - [List Comprehension](https://github.com/fer-aguirre/learn-python/blob/master/comprehensions/list_comprehensions.ipynb)
 - [Dictionary Comprehension](https://github.com/fer-aguirre/learn-python/blob/master/comprehensions/dict_comprehensions.ipynb)
@@ -46,3 +45,8 @@ Collection of Python scripts organized by topics with code examples.
   - [Sets](https://github.com/fer-aguirre/learn-python/blob/master/sets/sets.ipynb)
     - [Sets Operations](https://github.com/fer-aguirre/learn-python/blob/master/sets/sets_operations.ipynb)
     - [Remove Duplicates](https://github.com/fer-aguirre/learn-python/blob/master/sets/remove_duplicates.py)
+
+
+#### Modules
+- [Datetime](https://github.com/fer-aguirre/learn-python/blob/master/modules/datetime.ipynb)
+- [Pytz](https://github.com/fer-aguirre/learn-python/blob/master/modules/pytz.ipynb)
