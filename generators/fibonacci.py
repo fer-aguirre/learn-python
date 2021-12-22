@@ -1,6 +1,6 @@
 """
-Función que implementa un generador
-de la sucesión de Fibonacci
+A function that deploys a 
+generator of Fibonacci sequence
 """
 
 import time

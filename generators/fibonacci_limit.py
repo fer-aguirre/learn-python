@@ -1,8 +1,8 @@
 """
-Función que implementa un generador
-de la sucesión de Fibonacci
-a partir de un máximo de valores
-definido por el usuario
+A function that deploys a 
+generator of Fibonacci sequence
+from a maximum value
+entered by the user
 """
 
 import time
