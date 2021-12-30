@@ -52,4 +52,5 @@ Collection of Python scripts organized by topics with code examples.
 - [Pytz](https://github.com/fer-aguirre/learn-python/blob/master/modules/pytz.ipynb)
 
 #### Natural Language Processing
-- [NTLK Introduction](https://github.com/fer-aguirre/learn-python/blob/master/nlp/nltk.ipynbhttps://github.com/fer-aguirre/learn-python/blob/master/nlp/nltk.ipynb)
+- [NTLK Introduction](https://github.com/fer-aguirre/learn-python/blob/master/nlp/nltk_intro.ipynb)
+- [Statistics of Language](https://github.com/fer-aguirre/learn-python/blob/master/nlp/statistics_language.ipynb)
