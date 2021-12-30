@@ -50,6 +50,7 @@ Collection of Python scripts organized by topics with code examples.
 #### Modules
 - [Datetime](https://github.com/fer-aguirre/learn-python/blob/master/modules/datetime.ipynb)
 - [Pytz](https://github.com/fer-aguirre/learn-python/blob/master/modules/pytz.ipynb)
+- [Numpy](https://github.com/fer-aguirre/learn-python/blob/master/modules/numpy.ipynb)
 
 #### Natural Language Processing
 - [NTLK Introduction](https://github.com/fer-aguirre/learn-python/blob/master/nlp/nltk_intro.ipynb)
