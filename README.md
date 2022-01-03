@@ -55,4 +55,4 @@ Collection of Python scripts organized by topics with code examples.
 
 #### Natural Language Processing
 - [NTLK Introduction](https://github.com/fer-aguirre/learn-python/blob/master/nlp/nltk_intro.ipynb)
-- [Statistics of Language](https://github.com/fer-aguirre/learn-python/blob/master/nlp/statistics_language.ipynb)
+- [Lexical Diversity](https://github.com/fer-aguirre/learn-python/blob/master/nlp/lexical_diversity.ipynb)
