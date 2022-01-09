@@ -49,13 +49,15 @@ Collection of Python scripts organized by topics with code examples.
 
 
 #### Modules
-- [Datetime](https://github.com/fer-aguirre/learn-python/blob/master/modules/datetime.ipynb)
-- [Pytz](https://github.com/fer-aguirre/learn-python/blob/master/modules/pytz.ipynb)
-- [Numpy](https://github.com/fer-aguirre/learn-python/blob/master/modules/numpy.ipynb)
-- [Pandas](https://github.com/fer-aguirre/learn-python/tree/master/modules/pandas)
+- [datetime](https://github.com/fer-aguirre/learn-python/blob/master/modules/datetime.ipynb)
+- [pytz](https://github.com/fer-aguirre/learn-python/blob/master/modules/pytz.ipynb)
+- [os](https://github.com/fer-aguirre/learn-python/blob/master/modules/os.ipynb)
+- [numpy](https://github.com/fer-aguirre/learn-python/blob/master/modules/numpy.ipynb)
+- [pandas](https://github.com/fer-aguirre/learn-python/tree/master/modules/pandas)
   - [Series, Indexing](https://github.com/fer-aguirre/learn-python/blob/master/modules/pandas/series_indexing.ipynb)
   - [Pivot Table](https://github.com/fer-aguirre/learn-python/blob/master/modules/pandas/pivot_table.ipynb)
 
 #### Natural Language Processing
-- [NTLK Introduction](https://github.com/fer-aguirre/learn-python/blob/master/nlp/nltk_intro.ipynb)
-- [Lexical Diversity](https://github.com/fer-aguirre/learn-python/blob/master/nlp/lexical_diversity.ipynb)
+- [nltk]()
+  - [NTLK Introduction](https://github.com/fer-aguirre/learn-python/blob/master/nlp/nltk_intro.ipynb)
+  - [Lexical Diversity](https://github.com/fer-aguirre/learn-python/blob/master/nlp/lexical_diversity.ipynb)
