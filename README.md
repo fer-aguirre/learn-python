@@ -58,6 +58,6 @@ Collection of Python scripts organized by topics with code examples.
   - [Pivot Table](https://github.com/fer-aguirre/learn-python/blob/master/modules/pandas/pivot_table.ipynb)
 
 #### Natural Language Processing
-- [nltk]()
-  - [NTLK Introduction](https://github.com/fer-aguirre/learn-python/blob/master/nlp/nltk_intro.ipynb)
+- [nltk](https://github.com/fer-aguirre/learn-python/tree/master/nlp/nltk)
+  - [Introduction](https://github.com/fer-aguirre/learn-python/blob/master/nlp/nltk/introduction.ipynb)
   - [Lexical Diversity](https://github.com/fer-aguirre/learn-python/blob/master/nlp/lexical_diversity.ipynb)
