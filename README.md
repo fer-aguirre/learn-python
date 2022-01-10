@@ -1,4 +1,4 @@
-# Learn Python
+# Learn Python 🐍
 Collection of Python scripts organized by topics with code examples.
 
 ## Contents
