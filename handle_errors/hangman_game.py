@@ -7,7 +7,7 @@ import os
 from unidecode import unidecode
 
 # Constant with a file path
-DATA = "./data/data.txt"
+DATA = "./data/hangman_data.txt"
 
 def get_word():
     # Read a file by lines and create a list
