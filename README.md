@@ -59,6 +59,9 @@ Collection of Python scripts organized by topics with code examples.
 - [pandas](https://github.com/fer-aguirre/learn-python/tree/master/modules/pandas)
   - [Series, Indexing](https://github.com/fer-aguirre/learn-python/blob/master/modules/pandas/series_indexing.ipynb)
   - [Pivot Table](https://github.com/fer-aguirre/learn-python/blob/master/modules/pandas/pivot_table.ipynb)
+  - [Select Data](https://github.com/fer-aguirre/learn-python/blob/master/modules/pandas/select_data.ipynb)
+  - [Data Types](https://github.com/fer-aguirre/learn-python/blob/master/modules/pandas/datatypes.ipynb)
+  - [Math Functions](https://github.com/fer-aguirre/learn-python/blob/master/modules/pandas/math_functions.ipynb)
 
 #### Natural Language Processing
 - [Introduction](https://github.com/fer-aguirre/learn-python/blob/master/nlp/introduction.ipynb)
